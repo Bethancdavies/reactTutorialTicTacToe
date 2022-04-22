@@ -2,7 +2,7 @@
   "name": "sandbox-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bethancdavies.github.io",
+  "homepage": "https://bethancdavies.github.io/reactTutorialTicTacToe/",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.16.4",
